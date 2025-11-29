@@ -37,7 +37,7 @@ measurable, and backed by statistics.
 
 For the complete write-up, charts, tables, results, and interpretations:
 
-👉 **[Download the Final PDF Report](report/sol_avwap_divergence_report.pdf)**
+👉 **[Download the Final PDF Report](report/sol_avwap_divergence_report)**
 
 This is the polished 5–7 page research paper summarizing the entire project.
 
