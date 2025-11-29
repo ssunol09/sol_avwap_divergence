@@ -75,15 +75,19 @@ sol-avwap-divergence/
 
 ## ▶️ How to Run
 
-Clone and install dependencies:
-
 ```bash
+# 1. Clone the repository
 git clone https://github.com/ssunol09/sol_avwap_divergence.git
 cd sol_avwap_divergence
+
+# 2. (Optional) create a virtual environment
+python3 -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# 3. Install dependencies
 pip install -r requirements.txt
-```
-Run the notebook:
-```
+
+# 4. Launch the notebook
 jupyter notebook notebooks/01_sol_avwap_divergence.ipynb
 ```
 ---
