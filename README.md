@@ -94,6 +94,6 @@ My goal was to take the trading ideas I actually use and test them in a clean an
 By turning actual chart-based ideas into something quantifiable, this project serves as a link between 
 what I've been learning in trading and what I'm learning in FinTech.
 
-## Author
+## Author - Sebastián Suñol
 
 If you’re interested in crypto research or systematic technical trading — feel free to reach out.
